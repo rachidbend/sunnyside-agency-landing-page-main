@@ -1,0 +1,36 @@
+.hero {
+
+    height: 80rem;
+    background-image: url("../../images/desktop/image-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .header {
+        padding-top: 3rem;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+
+    }
+
+
+
+
+    .main {
+
+    }
+
+    .arrow {
+
+    }
+
+
+}
+
+.logo {
+    color: $color-neutral-white;
+    font-family: $font-barlow;
+    font-weight: $font-weight-regular;
+    font-size: 1.8rem;
+}
