@@ -1,0 +1,32 @@
+.heading {
+
+    font-family: $font-fraunces;
+    font-weight: $font-weight-black;
+    
+
+    &--large {
+        text-align: center;
+        color: $color-neutral-white;
+        text-transform: uppercase;
+        font-size: 5.5rem;
+        margin-top: 11.4rem;
+        letter-spacing: 1rem;
+    }
+
+    &--meduim {
+
+    }
+
+    &--mix {
+
+    }
+
+    &--small {
+
+    }
+
+
+
+
+
+}
